@@ -1,0 +1,23 @@
+/* Navigation Bar */
+.navbar {
+    background-color: #002d63;
+    padding: 20px 10px;
+    color: white;
+  }
+  
+  .nav-container {
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+  }
+  
+  .nav-item {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-item:hover {
+    text-decoration: underline;
+  }
+  
